@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Model checkpoints and generated runtime outputs
+*.pt
+*.pth
+*.safetensors
+checkpoints/
+Salla_Tarun_Kumar_23082746_LLM_outputs/
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
