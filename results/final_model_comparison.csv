@@ -1,0 +1,4 @@
+model,accuracy,precision,recall,f1,roc_auc,training_seconds,test_inference_seconds,trainable_parameters
+Fine-tuned DistilBERT,0.9064,0.9093,0.9028,0.9061,0.9689,363.2697,37.2193,66955010
+TF-IDF + Logistic Regression,0.8926,0.8915,0.8940,0.8928,0.9583,166.2901,3.6893,
+TF-IDF + Multinomial Naive Bayes,0.8714,0.8883,0.8496,0.8685,0.9424,130.4839,5.1027,
