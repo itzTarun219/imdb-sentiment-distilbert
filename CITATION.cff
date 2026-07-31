@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+title: "IMDb Sentiment Classification with Fine-Tuned DistilBERT"
+message: "Please cite this project if you reuse its implementation or results."
+type: software
+authors:
+  - family-names: "Salla"
+    given-names: "Tarun Kumar"
+repository-code: "https://github.com/itzTarun219/imdb-sentiment-distilbert"
+date-released: 2026-07-31
+keywords:
+  - sentiment analysis
+  - DistilBERT
+  - natural language processing
+  - IMDb
+  - transformers
