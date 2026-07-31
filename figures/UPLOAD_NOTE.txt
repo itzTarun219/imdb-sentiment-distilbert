@@ -1,0 +1,1 @@
+Generated plots from the executed notebook are maintained in this directory. The binary PNG artefacts are being uploaded separately.
