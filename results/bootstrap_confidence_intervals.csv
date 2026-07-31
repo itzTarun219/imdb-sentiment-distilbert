@@ -1,0 +1,7 @@
+model,metric,estimate,ci_lower_95,ci_upper_95
+TF-IDF + Logistic Regression,Accuracy,0.8926,0.8837,0.9015
+TF-IDF + Logistic Regression,F1,0.8928,0.8834,0.9015
+TF-IDF + Multinomial Naive Bayes,Accuracy,0.8714,0.8614,0.8810
+TF-IDF + Multinomial Naive Bayes,F1,0.8685,0.8583,0.8788
+Fine-tuned DistilBERT,Accuracy,0.9064,0.8985,0.9151
+Fine-tuned DistilBERT,F1,0.9061,0.8983,0.9149
